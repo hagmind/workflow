@@ -1,6 +1,6 @@
 
 #### Step 1: Create the Project Directory
-+ **Action**: Create a dedicated project directory (e.g., ==`python_basics`==) and navigate to it.
++ **Action**: Create a dedicated project directory (e.g., `python_basics`) and navigate to it.
 ```
 mkdir -p /Users/william/Source/Python/ProjectName/piython_basics
 cd /Users/william/Source/Python/ProjectName/python_basics
